@@ -19,7 +19,7 @@ h1{
 header > p{
     font-weight: 1;
     text-shadow: 2px 1px 0px #1a4514;
-    margin-bottom: 5px;
+    padding-bottom: 30px;
 }
 
 body{
