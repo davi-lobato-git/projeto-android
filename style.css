@@ -39,7 +39,7 @@ header{
 }
 
 nav{
-    padding-top: 20px;
+    padding-top: 70px;
     margin-top: 0px;
     background-color: #0B5300;
     padding: 15px;
@@ -49,7 +49,7 @@ nav{
 
 nav > a{
     border-radius: 3px;
-    padding: 9px;
+    padding: 15px;
     font-weight: bold;
     text-decoration: none;
     color: white;
